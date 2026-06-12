@@ -65,8 +65,8 @@ body {
   width: 400px;
   height: 400px;
   position: relative;
-  background: radial-gradient(circle, #5454f5, rgb(3, 6, 167));
-  box-shadow: 0 0 105px 0px #51b1c2;
+  background: radial-gradient(circle, #5454f5, rgb(22, 30, 255));
+  box-shadow: 0 0 105px 0px #b2faab;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -105,7 +105,7 @@ body {
 .hourhand {
   height: 100px;
   width: 8px;
-  background: linear-gradient(#ff0000, #0101ff);
+  background: linear-gradient(#bfffc7, #0101ff);
 }
 
 .minutehand {
