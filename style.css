@@ -149,7 +149,7 @@ body {
   background-color: var(--button-hover);
   color: var(--text-color-hover);
 }
-
+/*  */
 .theme-buttons .active {
   outline: 2px solid var(--active-glow);
 }
